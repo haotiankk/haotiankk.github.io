@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haotiankk.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-15T13:20:10.437Z</updated>
+    <updated>2020-03-15T13:24:50.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haotiankk.github.io"/>
     <link rel="self" href="https://haotiankk.github.io/atom.xml"/>
@@ -12,9 +12,13 @@
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello 万维网]]></title>
-        <id>https://haotiankk.github.io/post/hello-gridea/</id>
-        <link href="https://haotiankk.github.io/post/hello-gridea/">
+        <id>https://haotiankk.github.io/post/hello-wan-wei-wang/</id>
+        <link href="https://haotiankk.github.io/post/hello-wan-wei-wang/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-03-15T13:21:16.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>  这算是一个私人的小地盘，一直有想建立自己博客的想法。
+  现在，朋友突然说道这个轻量级的博客，可以让人专注写作。上手界面十分简洁，简单搭建，立马就能建立自己的博客。真的是太方便了，以后捣鼓什么乱七八糟的东西，总算有地方记录一下了，
+  开整！开整！😌</code></pre>
+]]></content>
     </entry>
 </feed>
